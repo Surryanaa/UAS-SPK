@@ -1,0 +1,11 @@
+INSERT INTO smartphonexiaomi (id,brand,ram,prosesor,storage,baterai,harga,ukuran_layar) VALUES
+	 ('1','Xiaomi Redmi 5','2 GB','MediaTek Helio G35','32 GB','5.000 mAh','Rp.1.499.000','6.5 inch'),
+	 ('2','Xiaomi Redmi 5 pro','4 GB','MediaTek Helio G35','64 GB','6.000 mAh','Rp.1.999.000','6.5 inch'),
+	 ('3','Xiaomi Redmi 8 Pro','8 GB','Qualcomm Snapdragon 720G','128 GB','4.500 mAh','Rp.3.999.000','6.4 inch'),
+	 ('4','Xiaomi Redmi 7 Pro','8 GB','MediaTek Dimensity 1000','128 GB','4.500 mAh','Rp.4.999.000','6.55 inch'),
+	 ('5','Xiaomi Redmi 9','8 GB','MediaTek Dimensity 1200','128 GB','4.500 mAh','Rp.4.999.000','6.43 inch'),
+	 ('6','Xiaomi Redmi 9 Pro','12 GB','Qualcomm Snapdragon 865','128 GB','4.200 mAh','Rp.7.999.000','6.44 inch'),
+	 ('7','Xiaomi Redmi 5A','4 GB','MediaTek Helio G85','64 GB','6.000 mAh','Rp.2.499.000','6.5 inch'),
+	 ('8','Xiaomi Redmi 10','8 GB','MediaTek Dimensity 810','128 GB','5.000 mAh','Rp.3.999.000','6.5 inch'),
+	 ('9','Xiaomi Redmi 10 Pro','12 GB','Qualcomm Snapdragon 870','128 GB','4.500 mAh','Rp.5.999.000','6.55 inch'),
+	 ('10','Xiaomi Redmi 11','12 GB','Qualcomm Snapdragon 898','128 GB','5.000 mAh','Rp.5.970.000','6.62 inch');
